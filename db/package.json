@@ -1,0 +1,17 @@
+{
+  "name": "4-month-exam-template",
+  "version": "1.0.0",
+  "description": "Fake API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "O'zim",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
